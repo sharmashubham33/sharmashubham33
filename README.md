@@ -21,7 +21,7 @@ Currently, my work sits at the intersection of **Linux, Ansible/AWX, Python, Bas
 Previously at **EllisDon**, I worked across AWS, Azure, and GCP, building enterprise-grade automation, CI/CD pipelines, Kubernetes platforms, cost optimization workflows, and security-focused infrastructure operations.
 
 * Building automation for **AI infrastructure**, data center deployment, and accelerator cluster environments
-* Spearheaded **FinOps initiatives** achieving **25–30% cloud cost reduction**
+* Spearheaded **FinOps initiatives** achieving **25-30% cloud cost reduction**
 * Delivered an **SRED-recognized infrastructure automation project**
 * Implemented enterprise **GenAI/RAG solutions** using Azure OpenAI
 * Experienced across **AWS, Azure, GCP, Kubernetes, Terraform, Ansible, CI/CD, DevSecOps, and SRE**
