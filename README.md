@@ -1,5 +1,5 @@
 <h1 align="center">Shubham Sharma</h1>
-<h3 align="center">DevOps Engineer | Cloud Architect | SRE</h3>
+<h3 align="center">Sr. Engineer, DC Deployment @ Tenstorrent | AI Infrastructure Automation | Cloud, SRE & DevSecOps</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sharmashubham33"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -12,12 +12,21 @@
 
 ### About Me
 
-DevOps Engineer with **5+ years** of experience designing, automating, and managing scalable, reliable **multi-cloud infrastructure** across AWS, Azure, and GCP. Currently at **EllisDon Corporation** building enterprise-grade CI/CD pipelines, managing Kubernetes clusters, and driving FinOps & DevSecOps practices.
+Sr. Engineer, DC Deployment at **Tenstorrent**, focused on **AI infrastructure automation**, data center deployment, and scalable infrastructure workflows for large-scale systems.
 
-- Spearheaded **FinOps initiatives** achieving **25-30% cloud cost reduction**
-- Delivered a **government-approved SRED** project
-- Implemented enterprise **GenAI/RAG solutions** using Azure OpenAI
-- **AWS Certified Solutions Architect** & **Microsoft Certified Azure Solutions Architect** (5 Azure certifications)
+I have **5+ years of experience** designing, automating, and operating reliable infrastructure across **AI infrastructure, multi-cloud platforms, Kubernetes, Linux, CI/CD, IaC, DevSecOps, FinOps, and SRE**.
+
+Currently, my work sits at the intersection of **Linux, Ansible/AWX, Python, Bash, Kubernetes, NetBox, StackStorm, MAAS, Slurm, BMC/OOB tooling, GitHub, CI/CD, and internal platform automation**.
+
+Previously at **EllisDon**, I worked across AWS, Azure, and GCP, building enterprise-grade automation, CI/CD pipelines, Kubernetes platforms, cost optimization workflows, and security-focused infrastructure operations.
+
+* Building automation for **AI infrastructure**, data center deployment, and accelerator cluster environments
+* Spearheaded **FinOps initiatives** achieving **25–30% cloud cost reduction**
+* Delivered an **SRED-recognized infrastructure automation project**
+* Implemented enterprise **GenAI/RAG solutions** using Azure OpenAI
+* Experienced across **AWS, Azure, GCP, Kubernetes, Terraform, Ansible, CI/CD, DevSecOps, and SRE**
+* **AWS Certified Solutions Architect** & **Microsoft Certified Azure Solutions Architect Expert** with **5 Azure certifications**
+
 
 ---
 
